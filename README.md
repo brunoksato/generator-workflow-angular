@@ -1,4 +1,4 @@
-# generator-workflow-angular [![Build Status](https://secure.travis-ci.org/brunoksato/generator-workflow-angular.png?branch=master)](https://travis-ci.org/brunoksato/generator-workflow-angular)
+# generator-workflow-angular [![Build Status](https://travis-ci.org/brunoksato/generator-workflow-angular.svg)](https://travis-ci.org/brunoksato/generator-workflow-angular)
 
 > [Yeoman](http://yeoman.io) generator
 
